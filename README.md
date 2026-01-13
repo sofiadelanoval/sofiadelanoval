@@ -1,5 +1,9 @@
 Software Engineer | Future Game Dev 
-Architecting resilient systems for public safety. 
+
+Currently working at IMPLAN Cancún.
+
 🎓 B.S. Data Engineering '25. 
-🛠️ GIS, Cloud Architecture, & AI Integration. 
+
+🛠️ GIS, Cloud Architecture & AI Integration. 
+
 🏆 1st Place @ Cemex Hacks.
